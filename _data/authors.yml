@@ -1,7 +1,7 @@
 Andrew Gahov:
   name        : "Andrew Gahov"
   bio         : "Building little green robots."
-  avatar      : "/assets/images/bio-photo-2.jpg"
+  avatar      : "/assets/images/andrew.png"
   links:
     - label: "Email"
 #      icon: "fas fa-fw fa-envelope-square"
