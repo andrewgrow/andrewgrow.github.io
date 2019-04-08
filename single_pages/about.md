@@ -3,6 +3,7 @@ layout: single
 title:  "About us"
 sidebar:
     nav: "left_navigation_menu"
+permalink: /about/
 ---
 
 **Hello everyone!** Our names are Andrew & Danil Gahov. We are making various mobile and web projects.

@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "Welcome to Jekyll!"
+title:  "Danil's Test Page"
 author_profile: true
-author: Andrew Gahov
-categories: [android]
+author: Danil
+tags: [android]
 ---
 
 # Welcome

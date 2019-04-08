@@ -12,5 +12,9 @@ main:
 #    url: /#
 
 left_navigation_menu:
+  - title: "Home"
+    url: /home/
   - title: "Categories"
     url: /categories/
+  - title: "Tags"
+    url: /tags/

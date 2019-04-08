@@ -1,4 +1,4 @@
-Andrew Gahov:
+Andrew:
   name        : "Andrew Gahov"
   bio         : "Building little green robots."
   avatar      : "/assets/images/andrew.png"
@@ -6,9 +6,6 @@ Andrew Gahov:
     - label: "Kirovograd, Ukraine"
       icon: "fas fa-map-marker-alt"
       url: "https://goo.gl/maps/FAeJNh8vGc12"
-#    - label: "Email"
-#      icon: "fas fa-at"
-#      url: "mailto:andrew@gahov.com"
     - label: "Github"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/andrewgrow"
@@ -19,20 +16,17 @@ Andrew Gahov:
       icon: "far fa-paper-plane"
       url: "https://t.me/andrewgrow"
 
-Danil Gahov:
+Danil:
   name        : "Danil Gahov"
   bio         : "I ordered what?"
-  avatar      : "/assets/images/bio-photo.jpg"
+  avatar      : "https://avatars1.githubusercontent.com/u/39914413?s=460&v=4"
   links:
-#    - label: "Email"
-#      icon: "fas fa-fw fa-envelope-square"
-#      url: "mailto:danil@gahov.com"
-#    - label: "Facebook"
-#      icon: "fab fa-fw fa-facebook-square"
-#      url: "https://facebook.com/"
+    - label: "Kirovograd, Ukraine"
+      icon: "fas fa-map-marker-alt"
+      url: "https://goo.gl/maps/FAeJNh8vGc12"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yourcatisi"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/"
+    - label: "Telegram"
+      icon: "far fa-paper-plane"
+      url: "https://t.me/Tetrada32"
