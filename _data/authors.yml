@@ -3,8 +3,10 @@ Andrew Gahov:
   bio         : "Building little green robots."
   avatar      : "/assets/images/andrew.png"
   links:
+    - label: "Kirovograd, Ukraine"
+      icon: "fas fa-map-marker-alt"
+      url: "https://goo.gl/maps/FAeJNh8vGc12"
     - label: "Email"
-#      icon: "fas fa-fw fa-envelope-square"
       icon: "fas fa-at"
       url: "mailto:andrew@gahov.com"
     - label: "Github"
@@ -17,8 +19,8 @@ Andrew Gahov:
       icon: "far fa-paper-plane"
       url: "https://t.me/andrewgrow"
 
-Daniel Gahov:
-  name        : "Daniel Gahov"
+Danil Gahov:
+  name        : "Danil Gahov"
   bio         : "I ordered what?"
   avatar      : "/assets/images/bio-photo.jpg"
   links:

@@ -5,7 +5,7 @@ sidebar:
     nav: "left_navigation_menu"
 ---
 
-**Hello everyone!** Our names are Andrew & Daniel Gahov. We are making various mobile and web projects.
+**Hello everyone!** Our names are Andrew & Danil Gahov. We are making various mobile and web projects.
 
 This web-site is our small presentation page. You may see different materials about our programming projects here.
 
