@@ -3,7 +3,7 @@ layout: single
 title:  "Техническое задание на программу \"Course Manager\""
 author_profile: true
 author: Danil
-tags: [android]
+tags: [университет]
 permalink: /course-manager/
 ---
 ### 1. Наименование работ
