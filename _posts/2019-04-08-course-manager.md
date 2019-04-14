@@ -4,6 +4,7 @@ title:  "Техническое задание на программу \"Course 
 author_profile: true
 author: Danil
 tags: [android]
+permalink: /course-manager/
 ---
 ### 1. Наименование работ
 Разработка сервиса для систематизации учебного процесса студентов, который включает Android приложение.
